@@ -18,7 +18,7 @@
 
 ## General info
 
-This project was coded to learn [React](https://github.com/facebook/react) best practices and patterns. [Redux](https://github.com/facebook/react) was used to manage state and [redux-saga](https://www.npmjs.com/package/redux-saga) was used to perform asynchronous tasks. **All the components are _functional components_**, so **hooks** were used to replace the traditional life cycle hook methods used in _class based_ components.
+This project was coded to learn [React](https://github.com/facebook/react) best practices and patterns. [Redux](https://github.com/facebook/react) was used to manage state and [redux-saga](https://www.npmjs.com/package/redux-saga) was used to perform asynchronous tasks. **All the components are _functional components_**.
 
 
 
