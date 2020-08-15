@@ -1,5 +1,5 @@
 # Burger Builder
-> A mobile responsive [React](https://github.com/facebook/react) app for ordering burgers online and seeing past orders stored in a database. Live app: https://burger-builder-rsfc.web.app/.
+> A mobile responsive [React](https://github.com/facebook/react) app for ordering burgers online and seeing past orders stored in a database. Live app: https://burger-builder-rtc.firebaseapp.com/.
 
 
 
